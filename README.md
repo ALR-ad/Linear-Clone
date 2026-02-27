@@ -19,7 +19,7 @@ A pixel-perfect, monochromatic reproduction of the **Linear** landing page. This
 
 * **Frontend**: HTML5 & CSS3 (Native)
 * **Workflow**: Developed as a learning practice to bridge the gap between static design and interactive interfaces.
-* **AI Collaboration**: Built with **Gemini** (AI-assisted development) to troubleshoot layout logic and optimize the mobile experience.
+* **AI Collaboration**:  (AI-assisted development) to troubleshoot layout logic and optimize the mobile experience.
 
 
 ---
