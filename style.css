@@ -320,7 +320,7 @@ body {
 }
      
 .logo-cloud {
-  padding: 80px 40px;
+  padding: 200px 40px 68px 40px;
   max-width: 1300px;
   margin: 0 auto;
 }
@@ -367,6 +367,7 @@ body {
 .feature-block {
 padding: 160px 40px 120px 40px; 
 position: relative;
+margin-top: 200px;
  
   
 }
@@ -487,8 +488,9 @@ position: relative;
   letter-spacing: 0.1em;
 }
 
-.features + .feature-block {
-  margin-top: 120px; 
+.features  {
+  margin-top: 110px; 
+  margin-bottom: 200px;
 }
 
 /* --- Changelog Container --- */
@@ -648,7 +650,7 @@ position: relative;
   color: #f7f8f8;
   margin-bottom: 48px;
 }
-/* --- The Buttons --- */
+
 .cta-buttons {
   display: flex;
   justify-content: center;
