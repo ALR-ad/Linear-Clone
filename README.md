@@ -16,3 +16,5 @@ Frontend: HTML5 & CSS3 (Native).
 Workflow: Developed as a learning practice to bridge the gap between static design and interactive web interfaces.
 
 AI Collaboration: Built with Gemini (AI-assisted development) to troubleshoot complex layout logic and refine the monochromatic color palette.
+
+View live demo at :- https://alr-ad.github.io/Linear-Clone/
