@@ -1,20 +1,38 @@
-🛸 Linear Clone: High-Fidelity UI Practice
-A pixel-perfect, monochromatic reproduction of the Linear landing page. This project was developed as a deep-dive into modern CSS architecture, responsive grid systems, and the "infinite black" design language characteristic of top-tier SaaS products.
+# 🛸 Linear Clone: High-Fidelity UI Practice
 
-🚀 Key Features
-Sticky Glassmorphism Header: A navigation bar that remains fixed at the top with a backdrop-filter blur effect for a premium feel.
+[**🔗 View Live Demo**](https://alr-ad.github.io/Linear-Clone/)
 
-Precision Layouts: Replicated the complex, data-rich grid systems of the original site, including the dense footer and testimonial cards.
+A pixel-perfect, monochromatic reproduction of the **Linear** landing page. This project was developed as a deep-dive into modern CSS architecture, responsive grid systems, and the "infinite black" design language.
 
-Advanced CSS: Extensive use of CSS Variables (Custom Properties), Flexbox, and CSS Grid to ensure alignment and scalability.
+---
 
-Performance Focused: Lightweight, dependency-free code optimized for smooth scrolling and fast load times.
+## 🚀 Key Features
 
-🛠️ Tech Stack & Development
-Frontend: HTML5 & CSS3 (Native).
+* **Sticky Glassmorphism Header**: A navigation bar that remains fixed at the top with a `backdrop-filter` blur effect.
+* **Precision Layouts**: Replicated complex grid systems including the dense footer and testimonial cards.
+* **Advanced CSS**: Extensive use of CSS Variables, Flexbox, and CSS Grid for precision alignment.
+* **Performance Focused**: Lightweight, dependency-free code optimized for smooth scrolling.
 
-Workflow: Developed as a learning practice to bridge the gap between static design and interactive web interfaces.
+---
 
-AI Collaboration: Built with Gemini (AI-assisted development) to troubleshoot complex layout logic and refine the monochromatic color palette.
+## 🛠️ Tech Stack & Development
 
-View live demo at :- https://alr-ad.github.io/Linear-Clone/
+* **Frontend**: HTML5 & CSS3 (Native)
+* **Workflow**: Developed as a learning practice to bridge the gap between static design and interactive interfaces.
+* **AI Collaboration**: Built with **Gemini** (AI-assisted development) to troubleshoot layout logic and optimize the mobile experience.
+
+---
+
+## 🎓 Academic Context
+
+This project reflects a high standard of technical precision and was built by **Pratik** to demonstrate expertise in frontend development at **AISSMS**. It applies the same attention to detail found in **engineering mechanics** to digital interface design.
+
+---
+
+## 📂 Project Structure
+
+```text
+├── index.html       # Primary semantic structure
+├── style.css        # Custom CSS with "Infinite Black" theme
+├── README.md        # Project documentation
+└── /assets          # Brand iconography and assets
