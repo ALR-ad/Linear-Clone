@@ -21,11 +21,6 @@ A pixel-perfect, monochromatic reproduction of the **Linear** landing page. This
 * **Workflow**: Developed as a learning practice to bridge the gap between static design and interactive interfaces.
 * **AI Collaboration**: Built with **Gemini** (AI-assisted development) to troubleshoot layout logic and optimize the mobile experience.
 
----
-
-## 🎓 Academic Context
-
-This project reflects a high standard of technical precision and was built by **Pratik** to demonstrate expertise in frontend development at **AISSMS**. It applies the same attention to detail found in **engineering mechanics** to digital interface design.
 
 ---
 
