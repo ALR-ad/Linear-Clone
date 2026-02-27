@@ -1,19 +1,18 @@
-Linear Website Clone 🚀
-A high-fidelity frontend reproduction of the Linear landing page. This project was built as a learning practice to master advanced CSS techniques and modern UI design patterns.
+🛸 Linear Clone: High-Fidelity UI Practice
+A pixel-perfect, monochromatic reproduction of the Linear landing page. This project was developed as a deep-dive into modern CSS architecture, responsive grid systems, and the "infinite black" design language characteristic of top-tier SaaS products.
 
-🛠️ Tech Stack & Development Process
-Frontend: HTML5 and CSS3 (Flexbox, CSS Grid).
+🚀 Key Features
+Sticky Glassmorphism Header: A navigation bar that remains fixed at the top with a backdrop-filter blur effect for a premium feel.
 
-AI Collaboration: This project was developed with the assistance of Gemini, an AI collaborator, to troubleshoot complex layouts, refine CSS logic, and optimize code structure.
+Precision Layouts: Replicated the complex, data-rich grid systems of the original site, including the dense footer and testimonial cards.
 
-Learning Goals: Focused on implementing "pixel-perfect" design, managing global CSS variables, and building sticky, glassmorphism navigation.
+Advanced CSS: Extensive use of CSS Variables (Custom Properties), Flexbox, and CSS Grid to ensure alignment and scalability.
 
-✨ Key Features
-Sticky Navigation: A semi-transparent header with backdrop-filter that remains fixed during scrolling.
+Performance Focused: Lightweight, dependency-free code optimized for smooth scrolling and fast load times.
 
-Refined Layout: Replicated the dense, data-rich grid systems found in professional SaaS landing pages.
+🛠️ Tech Stack & Development
+Frontend: HTML5 & CSS3 (Native).
 
-Minimalist Aesthetics: Emphasized the "infinite black" monochromatic look characteristic of modern tech brands.
+Workflow: Developed as a learning practice to bridge the gap between static design and interactive web interfaces.
 
-🚀 Purpose
-This repository serves as a showcase of my frontend development progress and my ability to leverage AI tools to build production-quality web interfaces.
+AI Collaboration: Built with Gemini (AI-assisted development) to troubleshoot complex layout logic and refine the monochromatic color palette.
