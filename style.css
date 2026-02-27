@@ -343,10 +343,11 @@ body {
 
 
 .manifesto {
-  padding: 30px 10px 50px 10px;
+  padding: 30px 10px 30px 10px;
   max-width: 1000px;
   margin: 0 auto;
   text-align: left; 
+
 }
 
 .manifesto-text {
@@ -365,7 +366,7 @@ body {
 
 /* --- Master Feature Block Container --- */
 .feature-block {
-padding: 160px 40px 120px 40px; 
+padding: 160px 40px 70px 40px; 
 position: relative;
 margin-top: 200px;
  
