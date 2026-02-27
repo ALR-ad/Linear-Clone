@@ -845,3 +845,26 @@ display: flex;
     padding: 20px;
   }
 }
+
+/* 1. Define the "Move Up" animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px); /* Starts 30px lower */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);    /* Ends at its original position */
+  }
+}
+
+/* 2. Apply it to your Hero Section or Main Container */
+.hero, .main-content {
+  animation: fadeInUp 1.2s ease-out forwards;
+}
+
+/* 3. (Optional) Make the sub-text appear slightly later for a "layered" look */
+.hero-subtitle {
+  opacity: 0; /* Start hidden */
+  animation: fadeInUp 1.2s ease-out 0.4s forwards; /* 0.4s delay */
+}
